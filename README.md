@@ -1,3 +1,19 @@
+# @stackline/grunt-cli
+
+Independent maintenance fork of `grunt-cli@1.5.0`. Original API, module format, runtime dependency ranges, and supported Node.js engines are preserved.
+
+```sh
+npm install @stackline/grunt-cli
+# Preserve existing imports with an npm alias:
+npm install grunt-cli@npm:@stackline/grunt-cli@1.0.0
+```
+
+See [UPSTREAM.md](UPSTREAM.md) for the exact source and issue review, and [CHANGELOG.md](CHANGELOG.md) for focused maintenance changes. Development and release tooling runs on Node.js 24; that does not change the library runtime requirement.
+
+Maintained by [Stackline](https://alexandro.net/). [Issues](https://github.com/alexandroit/stackline-grunt-cli/issues) · [npm](https://www.npmjs.com/package/@stackline/grunt-cli).
+
+## Upstream documentation
+
 # grunt-cli [![Build Status: Linux](https://travis-ci.org/gruntjs/grunt-cli.svg?branch=master)](https://travis-ci.org/gruntjs/grunt-cli) [![Build Status: Windows](https://ci.appveyor.com/api/projects/status/prp6g944b05jsq6d/branch/master?svg=true)](https://ci.appveyor.com/project/gruntjs/grunt-cli/branch/master)
 
 > The Grunt command line interface.

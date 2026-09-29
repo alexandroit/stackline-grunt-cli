@@ -1,0 +1,4 @@
+This is an independent maintenance fork of grunt-cli 1.5.0.
+Upstream source commit: 8c791efc931fa8cf80cc98d09d3e20c36501fc0f
+The upstream license and author notices are retained unchanged.
+Stackline changes are documented in CHANGELOG.md. No upstream endorsement is implied.

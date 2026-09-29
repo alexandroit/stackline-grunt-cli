@@ -1,15 +1,19 @@
 {
-  "name": "grunt-cli",
+  "name": "@stackline/grunt-cli",
   "description": "The grunt command line interface",
-  "version": "1.5.0",
+  "version": "1.0.0",
   "author": "Grunt Development Team (http://gruntjs.com/development-team)",
-  "repository": "gruntjs/grunt-cli",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandroit/stackline-grunt-cli.git"
+  },
   "license": "MIT",
   "engines": {
     "node": ">=10"
   },
   "scripts": {
-    "test": "node bin/grunt test"
+    "test": "node test/stackline.cjs",
+    "test:package": "node scripts/test-package.mjs"
   },
   "bin": {
     "grunt": "bin/grunt"
@@ -22,13 +26,31 @@
     "v8flags": "^4.0.1"
   },
   "devDependencies": {
-    "grunt": "^1.6.1",
-    "grunt-contrib-jshint": "^3.2.0"
+    "grunt": "1.6.3"
   },
   "files": [
     "bin",
     "completion",
-    "lib"
+    "lib",
+    "LICENSE*",
+    "license*",
+    "NOTICE",
+    "UPSTREAM.md",
+    "CHANGELOG.md",
+    "README.md",
+    "readme.md"
   ],
-  "appveyor_id": "prp6g944b05jsq6d"
+  "appveyor_id": "prp6g944b05jsq6d",
+  "bugs": {
+    "url": "https://github.com/alexandroit/stackline-grunt-cli/issues"
+  },
+  "homepage": "https://github.com/alexandroit/stackline-grunt-cli#readme",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "keywords": [
+    "stackline",
+    "maintenance-fork"
+  ]
 }
