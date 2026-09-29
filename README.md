@@ -4,13 +4,13 @@
 
 [![npm version](https://img.shields.io/npm/v/@stackline/grunt-cli.svg?style=flat-square)](https://www.npmjs.com/package/@stackline/grunt-cli)
 [![license](https://img.shields.io/npm/l/@stackline/grunt-cli.svg?style=flat-square)](https://github.com/alexandroit/stackline-grunt-cli)
-[![GitHub repository](https://img.shields.io/badge/GitHub-alexandroit%2Fstackline-grunt-cli-181717?style=flat-square&logo=github)](https://github.com/alexandroit/stackline-grunt-cli)
+[![GitHub repository](https://img.shields.io/badge/GitHub-repository-181717?style=flat-square&logo=github)](https://github.com/alexandroit/stackline-grunt-cli)
 [![Docs](https://img.shields.io/badge/docs-alexandro.net-0f766e?style=flat-square)](https://alexandro.net/docs/vanilla/grunt-cli/)
 [![Reddit community](https://img.shields.io/badge/community-r%2FStackline-ff4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/r/Stackline/)
 
 **[Documentation](https://alexandro.net/docs/vanilla/grunt-cli/)** | **[npm](https://www.npmjs.com/package/@stackline/grunt-cli)** | **[Issues](https://github.com/alexandroit/stackline-grunt-cli/issues)** | **[Repository](https://github.com/alexandroit/stackline-grunt-cli)**
 
-**Current package version:** `1.0.1`
+**Current package version:** `1.0.2`
 
 ---
 
@@ -22,7 +22,7 @@
 
 | Item | Value |
 | :--- | :--- |
-| Package | `@stackline/grunt-cli@1.0.1` |
+| Package | `@stackline/grunt-cli@1.0.2` |
 | API target | `grunt-cli@1.5.0` |
 | Supported Node.js | `>=10` |
 | License | `MIT` |

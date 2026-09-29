@@ -4,7 +4,7 @@
     {
       "name": "@stackline/grunt-cli",
       "path": "README.md",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "baselineVersion": "1.0.0",
       "keywords": [
         "stackline",
@@ -17,8 +17,8 @@
       "homepage": "https://alexandro.net/docs/vanilla/grunt-cli/",
       "baselineTarball": "https://registry.npmjs.org/@stackline/grunt-cli/-/grunt-cli-1.0.0.tgz",
       "baselineIntegrity": "sha512-+kSjIDSRaKG85jZQ2kaVGK2dZdC1JdyyvoF83H8ORiOpIYN/TqEjOA1AE+cQWvT1Rd0ZGEyg8BgbF6ws4f6JUQ==",
-      "expectedSha512": "a054829ceeea981193a9977aabe6041a73f7efc945c69899fa9782595c9b9afd7df2e476e8947818c3a7f4f7e59dff2e7434bca54c2bf76436a51fa1b4bc5a0a",
-      "tag": "docs-stackline-grunt-cli-v1.0.1"
+      "expectedSha512": "b68d6ca72e31bbac5ceff8f6ec145407a309b633021a792b387d7f2b1f7d9aea092e4e1983a25b8ebbb256985ec8442861a8621f34be4b70d40db85b437c2c92",
+      "tag": "docs-stackline-grunt-cli-v1.0.2"
     }
   ]
 }
